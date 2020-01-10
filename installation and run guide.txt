@@ -1,0 +1,25 @@
+# Guide to run this program
+
+## Dependencies installation
+
+- Python 3.7 (install from the following link)
+https://www.python.org/downloads/
+- You should also install pip python installation package
+
+- OpenCV for python installation (install from the following link)
+https://pypi.org/project/opencv-python/
+
+- pytesseract OCR lib for python (install from the following link)
+https://pypi.org/project/pytesseract/
+
+- Numpy lib (install from the following link)
+https://pypi.org/project/numpy/
+
+- imutils lib (install from the following link)
+https://pypi.org/project/imutils/
+
+
+## How to run the program
+1- Open the terminal inside the project folder
+2- Run the following command in terminal (replace the shapes.jpg with any other image name if required)
+python generation_detection.py --image "images/shapes.jpg"
